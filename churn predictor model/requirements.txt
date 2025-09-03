@@ -1,7 +1,7 @@
 pip install --upgrade pip
-streamlit
-joblib
-scikit-learn
-pandas
-numpy
-matplotlib
+pip install streamlit
+pip install joblib
+pip install scikit-learn
+pip install pandas
+pip install numpy
+pip install matplotlib
