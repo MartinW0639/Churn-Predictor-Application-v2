@@ -1,9 +1,10 @@
 
 
 
-pip install streamlit
-pip install joblib
-pip install scikit-learn
-pip install pandas
-pip install numpy
-pip install matplotlib
+streamlit==1.49.1
+scikit-learn==1.7.1
+pandas==2.3.2
+numpy==2.3.2
+joblib==1.5.2
+matplotlib==3.10.6
+seaborn==0.13.2
